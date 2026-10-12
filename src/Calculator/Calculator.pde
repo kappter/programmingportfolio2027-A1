@@ -76,6 +76,11 @@ void drawDisplay() {
   rect(width/2, 2*sf, width-2*sf, 2*sf);
   fill(127);
   textAlign(RIGHT, CENTER);
+  if(displayVal.length()> 12) {
+    textSize(32);
+  } else if(displayVal.length()>14) {
+    textSize(30);
+  }
   text(displayVal, width-1.5*sf, 2*sf);
 }
 
