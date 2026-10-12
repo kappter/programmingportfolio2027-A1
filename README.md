@@ -4,6 +4,8 @@
 
 ### Calculator 2026
 
+![Calc](https://github.com/kappter/programmingportfolio2027-A1/blob/main/images/calc2026.png?raw=true)
+
 ![Calculator2026](https://github.com/kappter/programmingportfolio2027-A1/blob/main/images/calc2026.png?raw=true)
 
 [Link to Source Code](https://github.com/kappter/programmingportfolio2027-A1/tree/main/src/Calculator)
